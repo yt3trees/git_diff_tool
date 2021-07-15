@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Unrestricted .\git_diff_tool.ps1
