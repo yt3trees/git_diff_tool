@@ -286,7 +286,6 @@ $Form.Controls.Add($OutputBox2)
 # キャンセルボタン(フォームには配置しない)
 $CancelButton = New-Object System.Windows.Forms.Button -Property @{
     Size = "0,0"
-    Text = "Cancel"
     DialogResult = "Cancel"
 }
 $form.Controls.Add($CancelButton)
